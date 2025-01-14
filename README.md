@@ -1,2 +1,3 @@
 # fake-news-detection
-hello hello hello
+
+- This project is focused on detecting fake news using Jupyter Notebooks.
